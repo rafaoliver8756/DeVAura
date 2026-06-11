@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Estudo Planner App
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# DeVAura
+Projeto A3 - Faculdade
+>>>>>>> 8b910ee9c76d689eb025fd55743582690e671650
